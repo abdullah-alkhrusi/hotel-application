@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reservation">Reservation</string>
+    <string name="room_number">Room number</string>
+    <string name="how_many_days">how many days</string>
+    <string name="update">Update</string>
+    <string name="calculate">Calculate</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="rooms">Rooms</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="insert">Insert</string>
+    <string name="user_name">User name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="t">t</string>
+    <string name="room_1">Room 1</string>
+    <string name="room_2">Room 2</string>
+    <string name="room_3">Room 3</string>
+    <string name="room_4">ROOM 4</string>
+</resources>
